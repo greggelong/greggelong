@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greggelong
+- 👋 Hi, I’m Greg Kreisman @greggelong
 - 👀 I’m interested in creative coding, reto computing, complexity theory, agent based models, GOFAI
 - 🌱 I’m currently learning slowly.
 - 📫 How to reach me gkreisman@gmail.com
