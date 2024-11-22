@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Greg Kreisman @greggelong
+- 👋 Hi, I’m Greg Kreisman @greggelong Greg 哥龙
 - 👀 I’m interested in generative art, creative coding, reto computing, complexity theory, agent based models, GOFAI
-- 🌱 I’m currently learning slowly.
+- 🌱 I’m currently an Art worker. https://greggelong.github.io/workers/
 - 📫 How to reach me gkreisman@gmail.com
 
 <!---
